@@ -1,4 +1,4 @@
-package com.miu.emailservice;
+package com.miu.registration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

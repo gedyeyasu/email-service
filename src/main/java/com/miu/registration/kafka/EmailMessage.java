@@ -1,12 +1,14 @@
-package com.miu.emailservice.kafka;
+package com.miu.registration.kafka;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.springframework.stereotype.Component;
 
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Data
+@Component
 public class EmailMessage {
 
     private String recipient;

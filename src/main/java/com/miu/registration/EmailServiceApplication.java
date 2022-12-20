@@ -1,4 +1,4 @@
-package com.miu.emailservice;
+package com.miu.registration;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
